@@ -1,139 +1,194 @@
+<!-- ===================================================== -->
+<!--                 GitHub Profile README                 -->
+<!--                    Lokesh R G                         -->
+<!-- ===================================================== -->
+
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=34&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Lokesh+R+G;AI+%26+Data+Science+Engineer;Full+Stack+Developer;Computer+Vision+Engineer;Building+AI+for+Real+World+Problems;Future+Tech+Entrepreneur" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=180&text=Lokesh%20R%20G&fontSize=58&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=LOKESH%20R%20G&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Intelligent%20Systems%20for%20the%20Future&descAlignY=58"/>
+<h3>
+AI Engineer • Full Stack Developer • Product Builder • Researcher
+</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lokesh-rg.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokesh-R-G)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<p>
+Building intelligent systems that combine Artificial Intelligence,
+Computer Vision and Scalable Software Engineering.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=lokesh-R-G&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&size=22&duration=3200&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Computer+Vision+Developer;Full+Stack+Developer;Research+Driven+Product+Builder;Industrial+Automation+Enthusiast;Always+Building+Something+New" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+# About Me
 
-```yaml
-Name: Lokesh R G
-Role: AI & Data Science Engineer
-Education: B.Tech Artificial Intelligence & Data Science
-Focus:
-  - Enterprise Software Engineering
-  - Artificial Intelligence
-  - Computer Vision
-  - Robotics
-  - Full Stack Development
-  - Startup Product Engineering
+```text
+A passionate AI & Data Science Engineer who enjoys transforming
+ideas into real-world products.
 
-Current Mission:
-  Building intelligent software that solves real-world industrial problems.
+I specialize in Computer Vision, Artificial Intelligence,
+Backend Architecture and Modern Frontend Development.
 
-Philosophy:
-  "Technology should solve problems before creating complexity."
+I believe great software is built through simplicity,
+clean architecture and continuous research.
 ```
 
 ---
 
-# 🌌 Engineering Philosophy
+# Education
 
-I enjoy building products that combine **Software Engineering**, **Artificial Intelligence**, **Computer Vision**, and **Industrial Automation** into scalable solutions.
+## Bachelor of Engineering
 
-Instead of simply developing applications, I enjoy designing complete systems—from architecture and databases to AI models, intuitive user interfaces, and deployment-ready solutions.
+**Artificial Intelligence & Data Science**
 
-My long-term goal is to build technology that improves industries through intelligent automation.
+**DMI College of Engineering, Chennai**
+
+**2022 – 2026**
+
+CGPA **7.61**
 
 ---
 
-# 🧠 Engineering Pillars
+# Product Development
 
 <table>
+
 <tr>
+
 <td width="50%">
 
-## 🏢 Enterprise Software
+### Product Thinking
 
-- Enterprise Architecture
-- Domain Driven Design
-- CQRS
-- REST APIs
-- RBAC
-- Authentication
-- Authorization
-- Modular Monolith
-- Audit Logging
-- Background Jobs
-- Notification Systems
-- API Design
-- DTO Architecture
+- Product Architecture
+- Feature Planning
+- Requirement Analysis
+- Market Validation
+- MVP Development
+- UI/UX Design
+- User Journey Mapping
 
 </td>
 
 <td width="50%">
 
-## 🤖 Artificial Intelligence
+### Engineering
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- YOLO
-- OpenCV
-- MediaPipe
-- TensorFlow
-- Keras
-- LSTM
-- Image Processing
-- Object Detection
-- Defect Detection
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## ⚙ Robotics
-
-- Adaptive Grippers
-- Vision Guided Robotics
-- Pick & Place
-- Conveyor Automation
-- Texture Recognition
-- Warehouse Automation
-- Industrial AI
-- Smart Inspection
+- REST API Design
+- Database Architecture
+- Microservices
+- Cloud Deployment
+- Performance Optimization
+- Authentication Systems
+- Enterprise Software
 
 </td>
 
-<td>
-
-## 🌍 Research
-
-- Flood Prediction
-- Agriculture AI
-- Medical AI
-- Digital Twins
-- Ocean Pollution
-- Smart Cities
-- Environmental Monitoring
-
-</td>
 </tr>
 
 </table>
 
 ---
 
-# 💻 Technology Stack
+# Research Interests
+
+<table>
+
+<tr>
+
+<td>
+
+Computer Vision
+
+</td>
+
+<td>
+
+Machine Learning
+
+</td>
+
+<td>
+
+Industrial AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Warehouse Automation
+
+</td>
+
+<td>
+
+Robotics
+
+</td>
+
+<td>
+
+Remote Sensing
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+Predictive Analytics
+
+</td>
+
+<td>
+
+Human Computer Interaction
+
+</td>
+
+<td>
+
+IoT + AI Systems
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Professional Skills
+
+<div align="center">
+
+| Product | Research | Communication | Leadership |
+|---------|----------|--------------|------------|
+| Product Strategy | Literature Review | Technical Presentation | Team Collaboration |
+| Requirement Gathering | Experiment Design | Client Communication | Decision Making |
+| Roadmap Planning | Data Analysis | Documentation | Project Ownership |
+| UX Thinking | Problem Solving | Public Speaking | Mentoring |
+
+</div>
+
+---
+
+# Technical Knowledge
 
 ## Languages
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,cpp,sql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,mysql"/>
 
 </p>
 
@@ -141,319 +196,552 @@ My long-term goal is to build technology that improves industries through intell
 
 ## Frontend
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css"/>
 
 </p>
-
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-- ShadCN UI
-- Responsive UI
-- Dashboard Engineering
 
 ---
 
 ## Backend
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,flask"/>
-
-</p>
-
-- REST APIs
-- Authentication
-- JWT
-- SMTP
-- Session Management
-- Middleware
-- Repository Pattern
-- Validation Layer
-
----
-
-## Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgres,supabase"/>
 
 </p>
 
-- PostgreSQL
-- Prisma ORM
-- MongoDB
-- Supabase
-- Query Optimization
-- Transactions
-- Schema Design
-- Indexing
-
 ---
 
-## AI / ML
+## Artificial Intelligence
 
-<p align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv"/>
 
 </p>
 
-- TensorFlow
-- Keras
-- OpenCV
+### Libraries
+
 - YOLO
 - MediaPipe
-- LSTM
+- NumPy
+- Pandas
 - Scikit-Learn
-- Image Classification
-- Prediction Models
+- HuggingFace Transformers
 
 ---
 
-## Dev Tools
+## Tools
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,postman,figma,vscode"/>
 
 </p>
-
----
-
-# 🏗 Enterprise Modules Built
-
-```text
-Authentication
-├── Login
-├── Registration
-├── Forgot Password
-├── OTP Verification
-├── Email Verification
-├── Password Reset
-├── Session Management
-
-IAM
-├── Users
-├── Roles
-├── Permissions
-├── RBAC
-├── Account Locking
-├── Audit Logs
-
-Fleet Management
-├── Vehicles
-├── Fleet Analytics
-├── Odometer Tracking
-
-Tyre Lifecycle
-├── Purchase
-├── Warehouse
-├── Installation
-├── Rotation
-├── Removal
-├── Inspection
-├── Retread
-├── Scrap
-├── Cost Analytics
-
-Warehouse
-├── Inventory
-├── Dispatch
-├── Stock
-├── Receiving
-
-Analytics
-├── KPI Dashboard
-├── Cost Analysis
-├── Reports
-└── Performance Monitoring
-```
-
----
-
-# 🚀 Featured Projects
-
-## 🚛 TLCM Pro
-
-Enterprise Tyre Lifecycle Management Platform
-
-**Highlights**
-
-- Enterprise Architecture
-- CQRS
-- RBAC
-- Analytics Dashboard
-- Fleet Management
-- Vehicle Tracking
-- Warehouse
-- Procurement
-- Cost Analytics
-- Prisma ORM
-- PostgreSQL
-
----
-
-## 🌊 Chennai FloodGuard
-
-AI-powered flood prediction platform.
-
-- LSTM Prediction
-- Weather APIs
-- GIS
-- Supabase
-- Real-time Dashboard
-
----
-
-## 👁 NeuroVision
-
-Computer Vision powered eye movement diagnostics.
-
-- OpenCV
-- MediaPipe
-- AI Diagnostics
-- Eye Tracking
-
----
-
-## 📚 RE-BOOK
-
-Smart Academic Marketplace
-
-- AI Price Estimation
-- OCR
-- Chat
-- Location Search
-- Recommendation System
-
----
-
-## 🤖 Warehouse Robotics
-
-Vision-guided adaptive robotic gripper.
-
-- Object Detection
-- Texture Analysis
-- Pick & Place
-- AI + Robotics
-
----
-
-## 📱 PocketDeck
-
-Turn an Android device into a smart desktop companion.
-
-- React Native
-- QR Pairing
-- Device Monitoring
-- Local Network Communication
-
----
-
-# 📊 Engineering Domains
-
-| Domain | Experience |
-|----------|------------|
-| Enterprise Software | ⭐⭐⭐⭐⭐ |
-| Full Stack Development | ⭐⭐⭐⭐⭐ |
-| Artificial Intelligence | ⭐⭐⭐⭐⭐ |
-| Computer Vision | ⭐⭐⭐⭐⭐ |
-| Robotics | ⭐⭐⭐⭐☆ |
-| Mobile Development | ⭐⭐⭐⭐☆ |
-| Database Engineering | ⭐⭐⭐⭐⭐ |
-| Research & Innovation | ⭐⭐⭐⭐⭐ |
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lokesh-R-G&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-R-G&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lokesh-R-G&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lokesh-R-G&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🌍 Research Interests
-
-- Artificial Intelligence
-- Enterprise Systems
-- Robotics
-- Industrial Automation
-- Warehouse Intelligence
-- Digital Twins
-- Disaster Prediction
-- Agriculture AI
-- Medical AI
-- Smart Manufacturing
-- Environmental Analytics
-
----
-
-# 🎯 Current Focus
-
-```text
-Building
-
-Enterprise Software
-        +
-Artificial Intelligence
-        +
-Computer Vision
-        +
-Robotics
-        +
-Industrial Automation
-        +
-Startup Products
-```
-
----
-
-# 💡 What Drives Me
-
-> Building software is exciting.
-
-> Building intelligent systems that improve people's lives is even more exciting.
-
-I aspire to build products where **AI, Robotics, and Enterprise Software** work together to solve real-world industrial challenges.
 
 ---
 
 <div align="center">
 
-## ⭐ Let's Build Something Amazing
+> *"Engineering is not only about writing code.*
+>
+> *It is about creating products that solve meaningful problems."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Always+Learning...;Always+Building...;Always+Innovating...;Engineering+the+Future+🚀"/>
+</div>
+
+---
+
+---
+
+# Featured Projects
+
+<div align="center">
+
+## Building Products That Solve Real-World Problems
+
+From Artificial Intelligence and Computer Vision to Enterprise Software and Robotics, these projects represent my journey of transforming ideas into production-ready solutions.
+
+</div>
+
+---
+
+## 🌊 Chennai FloodGuard
+
+### AI-Powered Flood Prediction & Monitoring Platform
+
+> Predicting urban flooding using Machine Learning, weather forecasting and geospatial analytics.
+
+**Highlights**
+
+- Real-time flood prediction
+- LSTM forecasting model
+- Weather API integration
+- Interactive GIS dashboard
+- Historical rainfall analysis
+- Live monitoring system
+
+**Technology**
+
+`Python`
+`TensorFlow`
+`LSTM`
+`Open-Meteo API`
+`Supabase`
+`React`
+`TypeScript`
+
+---
+
+## 🚛 TLCM Pro
+
+### Enterprise Tyre Lifecycle Management System
+
+A complete enterprise platform for managing the lifecycle of fleet tyres from procurement to disposal.
+
+### Features
+
+- Fleet Management
+- Vehicle Management
+- Tyre Inventory
+- Installation Tracking
+- Rotation Management
+- Inspection Module
+- Warranty Tracking
+- Cost Per Kilometer Analytics
+- Role Based Access Control
+- Dashboard & Reports
+
+### Technology
+
+`React`
+`Node.js`
+`Express`
+`PostgreSQL`
+`Prisma`
+`TailwindCSS`
+
+---
+
+## 👁 NeuroVision
+
+### Eye Movement Analysis using Computer Vision
+
+An intelligent healthcare system capable of tracking eye movements for diagnostic support.
+
+### Features
+
+- Face Detection
+- Eye Tracking
+- Iris Detection
+- Blink Detection
+- Real-Time Analytics
+- Medical Visualization
+
+### Technology
+
+`Python`
+`OpenCV`
+`MediaPipe`
+`Machine Learning`
+
+---
+
+## 📚 RE-BOOK
+
+### AI Powered Campus Book Exchange
+
+Helping students buy and sell academic books using AI assisted pricing.
+
+### Features
+
+- AI Price Prediction
+- OCR Book Detection
+- Smart Search
+- User Authentication
+- Location Based Discovery
+- Marketplace Dashboard
+
+### Technology
+
+`React`
+`Supabase`
+`TypeScript`
+`OCR`
+`AI`
+
+---
+
+## 🤖 Adaptive Robotic Gripper
+
+### AI + Computer Vision Powered Warehouse Robot
+
+A robotic arm capable of identifying objects, analyzing textures and automatically selecting the best gripping strategy.
+
+### Features
+
+- Object Detection
+- Texture Recognition
+- Adaptive Grip Selection
+- Warehouse Automation
+- Real-Time Processing
+- Industrial Robotics
+
+### Technology
+
+`YOLO`
+`OpenCV`
+`Python`
+`Arduino`
+`ESP8266`
+
+---
+
+## 🌊 Ocean Plastic Detection System
+
+### Satellite-Based Marine Pollution Detection
+
+An environmental monitoring platform that detects floating plastic waste using multispectral satellite imagery.
+
+### Features
+
+- Satellite Image Processing
+- Sentinel-2 Analysis
+- Water Index Computation
+- Plastic Detection
+- GIS Visualization
+- Environmental Monitoring
+
+### Technology
+
+`Google Earth Engine`
+`Python`
+`Sentinel-2`
+`PlanetScope`
+`TensorFlow`
+
+---
+
+## 🎮 PocketDeck
+
+### Android Powered Handheld Gaming Computer
+
+Transforming an Android device into a lightweight portable gaming companion.
+
+### Features
+
+- PC Streaming
+- USB Tethering
+- Controller Integration
+- Low Latency Communication
+- Cross Platform Support
+
+### Technology
+
+`React Native`
+`FastAPI`
+`ADB`
+`Android`
+
+---
+
+## 📊 Learning Management & ERP System
+
+A scalable education platform integrating Learning Management with Enterprise Resource Planning.
+
+### Modules
+
+- Student Portal
+- Faculty Dashboard
+- Attendance
+- Assessment
+- Finance
+- Inventory
+- Human Resources
+- Analytics
+
+### Technology
+
+`React`
+`Express`
+`MongoDB`
+`TanStack Router`
+
+---
+
+# Areas of Expertise
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+### Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Object Detection
+- Image Processing
+- Predictive Analytics
+
+</td>
+
+<td width="33%">
+
+### Software Engineering
+
+- Full Stack Development
+- REST APIs
+- Enterprise Systems
+- Database Design
+- Authentication
+- Cloud Deployment
+
+</td>
+
+<td width="33%">
+
+### Research
+
+- Industrial Automation
+- Robotics
+- Smart Cities
+- GIS
+- Remote Sensing
+- Human-Centered AI
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# What I'm Currently Working On
+
+- Enterprise Fleet Management Systems
+- AI Powered Warehouse Automation
+- Robotics with Computer Vision
+- Smart Industrial Inspection
+- Environmental Monitoring using Satellite Imagery
+- Intelligent Healthcare Applications
+- Product Engineering & Scalable System Design
+
+---
+
+<div align="center">
+
+### Every project is built with one philosophy
+
+**Research → Design → Build → Test → Deploy → Improve**
+
+</div>
+
+---
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lokesh-R-G&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-R-G&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lokesh-R-G&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-R-G&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lokesh-R-G/lokesh-R-G/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+</div>
+
+---
+
+# Open Source
+
+I enjoy contributing to projects that create meaningful impact.
+
+Current interests include:
+
+- Artificial Intelligence
+- Computer Vision
+- Robotics
+- Full Stack Development
+- Enterprise Software
+- Industrial Automation
+- GIS & Remote Sensing
+- Research-driven Engineering
+
+---
+
+# Current Focus
+
+```text
+Building scalable AI products
+Enterprise software architecture
+Computer Vision systems
+Robotics & warehouse automation
+Satellite imagery analytics
+Modern web applications
+Open-source contributions
+```
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/lokesh-R-G">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-lokesh-rg.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lokesh-R-G&label=Profile%20Views&color=000000&style=for-the-badge"/>
+
+</div>
+
+---
+
+# Development Philosophy
+
+<div align="center">
+
+> **Research First**
+>
+> Understand the problem before writing code.
+
+<br>
+
+> **Design with Purpose**
+>
+> Simplicity is the ultimate sophistication.
+
+<br>
+
+> **Build for Scale**
+>
+> Every product should be maintainable and extensible.
+
+<br>
+
+> **Never Stop Learning**
+>
+> Technology evolves. So should we.
+
+</div>
+
+---
+
+# Tech Motto
+
+<div align="center">
+
+```text
+Research.
+Design.
+Build.
+Deploy.
+Iterate.
+```
+
+</div>
+
+---
+
+# Quote
+
+<div align="center">
+
+> *"Technology should not merely automate work; it should amplify human potential."*
+
+</div>
+
+---
+
+<div align="center">
 
 ### Thanks for visiting!
 
-⭐ If you like my work, consider giving a star to my repositories.
+If you like my work, consider ⭐ starring a repository or connecting with me.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer"/>
 
 </div>
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: lokesh-R-G
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
